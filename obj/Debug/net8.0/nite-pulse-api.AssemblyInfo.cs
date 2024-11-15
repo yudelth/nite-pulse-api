@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nite-pulse-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd4c9d884bcf5af75b1bf079606bbadeb7fd4e4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("nite-pulse-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nite-pulse-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
